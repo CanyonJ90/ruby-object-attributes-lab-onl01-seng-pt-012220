@@ -16,5 +16,5 @@ def breed= (dog_breed)
 end
 
 def breed 
-  @breed = "Beagal"
+  @breed = "Beagle"
 end
