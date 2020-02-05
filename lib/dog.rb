@@ -11,4 +11,10 @@ class Dog
   
 end
   
-  @name= "Fido"
+def breed= (dog_breed)
+  @breed = dogs_breed
+end
+
+def breed 
+  @breed = "Beagal"
+end
